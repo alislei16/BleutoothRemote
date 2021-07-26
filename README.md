@@ -25,5 +25,3 @@ Proposed
 * Control mouse cursor
 
 
-# Windows Server application
-A C# Windows Forms application, listens for incoming connections. Bluetooth and network listening can be started and stopped on demand. Generates a QR code with the necessary information to initiate a connection.
